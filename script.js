@@ -11,7 +11,7 @@ moveButton.addEventListener("click", function () {
 });
 
 correctlyButton.addEventListener("click", function() {
-    alert("Chave: bkelven000@gmail.com");
+    alert("Eu pago o lanche e vc o boquet kkk");
 });
 
 
