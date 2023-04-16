@@ -11,7 +11,7 @@ moveButton.addEventListener("click", function () {
 });
 
 correctlyButton.addEventListener("click", function() {
-    alert("Eu pago o lanche e vc o boquet kkk");
+    alert("Eu pago o lanche e vc o boquet kk");
 });
 
 
